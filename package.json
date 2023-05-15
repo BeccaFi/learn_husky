@@ -1,0 +1,17 @@
+{
+  "name": "learn_husky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0",
+    "mocha": "^10.2.0"
+  }
+}
