@@ -1,8 +1,6 @@
 var assert = require('assert');
-const { Calculator } = require('../src/calculator');
+const { Calculator } = require('../src/calculator')
 
-
-   const { Calculator } = require('../src/calculator')
    var assert = require('assert');
    describe('Calculator', function () {
     var calc;
